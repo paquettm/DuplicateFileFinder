@@ -11,4 +11,7 @@ The utility uses
 * SQLite3 to store data.
 * Python3 to run the code.
 
+TODO
+* Separate into proper files
+* Complete interface to allow intuitive application of the search results
 
